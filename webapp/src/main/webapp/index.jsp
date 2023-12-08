@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank you, Happy Learning and practice. Created new line Devops inteviews Final modication on ansible now fullpath </h1>
+   <h1> Thank you, Happy Learning and practice. Constant deploying </h1>
 
   
 </form>
